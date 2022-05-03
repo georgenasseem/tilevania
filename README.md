@@ -6,7 +6,7 @@
 Controls are pretty simple. Right and left arrows to move. Up and down buttons to move on ladders, and a spacebar to jump.
 
 ## Playing Tilevania
-Tilevania is hosted on a [website](https://tilevania.netlify.app) on netlify.
+Tilevania is hosted on a [website](https://tilevaniageorge.netlify.app) on netlify.
 
 ## Contacts
 Feel free to add any changes to the project. 
